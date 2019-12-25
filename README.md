@@ -1,3 +1,3 @@
 ### Gender Prediction using NLP and Naive Bayes
-### Flask frameWork for WebAPP 
+### Flask frame work for WebAPP 
 ### Deployment on Heroku
